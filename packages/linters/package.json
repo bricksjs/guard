@@ -1,6 +1,6 @@
 {
   "name": "@bricks/guider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一个封装的前端请求库",
   "author": "贾亦品",
   "homepage": "https://github.com/bricksjs/guider#readme",
@@ -29,11 +29,11 @@
     "url": "https://github.com/bricksjs/guider/issues"
   },
   "dependencies": {
-    "@babel/runtime": "^7.9.6",
-    "@babel/runtime-corejs3": "^7.9.6",
+    "@babel/plugin-transform-runtime": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "@babel/preset-typescript": "^7.9.0",
-    "@babel/plugin-transform-runtime": "^7.9.6",
+    "@babel/runtime": "^7.9.6",
+    "@babel/runtime-corejs3": "^7.9.6",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.34.0",
     "eslint-config-airbnb-base": "^14.1.0",
