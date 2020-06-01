@@ -1,4 +1,4 @@
-const config = {
+export const config = {
   root: true,
   env: {
     browser: true,
