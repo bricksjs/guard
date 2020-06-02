@@ -72,6 +72,9 @@
   "exclude":[
     "build",
     "lib",
-    "node_modules"
+    "tslint",
+    "eslint",
+    "index.js",
+    "node_modules",
   ]
 }

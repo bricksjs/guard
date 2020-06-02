@@ -10,7 +10,10 @@
     "lib": "lib"
   },
   "files": [
-    "lib"
+    "lib",
+    "eslint",
+    "tslint",
+    "index.js"
   ],
   "publishConfig": {
     "registry": "http://nexus3.hundsun.com:6060/repository/rd_center/"
