@@ -1,6 +1,6 @@
 {
-  "name": "@bricks/eslint-config-guard",
-  "version": "1.0.4",
+  "name": "@bricks/eslint-config",
+  "version": "1.0.5",
   "description": "一个封装的前端请求库",
   "author": "贾亦品",
   "homepage": "https://github.com/bricksjs/guard#readme",

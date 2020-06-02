@@ -1,3 +1,5 @@
+
+Object.defineProperty(exports, '__esModule', { value: true });
 const config = {
   root: true,
   env: {
@@ -29,5 +31,4 @@ const config = {
     'no-case-declarations': 'off',
   },
 };
-
-module.exports = config;
+exports.default = config;

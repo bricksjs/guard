@@ -1,5 +1,7 @@
 import tslint from './tslint';
 
-export {
-  tslint,
+/* eslint-disable */
+export = {
+  ...tslint
 };
+
