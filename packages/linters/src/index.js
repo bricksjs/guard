@@ -1,5 +1,8 @@
 const tslint = require('./tslint');
+
+
 const config = {
-    ...tslint,
+  ...tslint,
 };
+
 module.exports = config;
