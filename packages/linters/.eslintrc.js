@@ -27,5 +27,6 @@ module.exports = {
       "import/no-unresolved":"off",
       "prefer-const": "off",
       "no-case-declarations": "off",
+      "@typescript-eslint/no-var-requires": "off"
     }
 };
