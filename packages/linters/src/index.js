@@ -1,8 +1,8 @@
-const tslint = require('./tslint');
+const vuelint = require('./vuelint');
 
 
 const config = {
-  ...tslint,
+  ...vuelint,
 };
 
 module.exports = config;
