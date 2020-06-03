@@ -1,3 +1,5 @@
+// .eslintrc.js
+
 const config = {
   root: true,
   env: {
